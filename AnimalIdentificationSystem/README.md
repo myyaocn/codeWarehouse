@@ -220,14 +220,3 @@ private boolean judgeContain(InputFeature judgeSet , int featureID) {
 		return false;
 	}
 ```
-## 实验演示
-这是进入的界面  
-<center>![start](animalSystem/start.png)</center>  
-
-按照序号输入特征，输入-1表示结束
-* 没有产生结果的情况处理
-<center>![result_false](animalSystem/result_false.png)</center>
-* 产生一个结果的情况
-<center>![result_true](animalSystem/result_true.png)</center>
-* 产生两个结果的情况处理
-<center>![result_two](animalSystem/result_two.png)</center>
